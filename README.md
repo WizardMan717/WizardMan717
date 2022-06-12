@@ -1,4 +1,4 @@
-### Hi there 👋
+[### Hi there 👋](https://wizardman717.github.io/WizardMan717/)
 
 <!--
 **WizardMan717/WizardMan717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
